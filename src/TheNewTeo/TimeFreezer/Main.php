@@ -1,6 +1,6 @@
 <?php
 
-namespace TheNewTeam\TimeFreezer;
+namespace TheNewTeo\TimeFreezer;
 
 use pocketmine\event\level\LevelLoadEvent;
 use pocketmine\event\Listener;
