@@ -1,0 +1,6 @@
+name: TimeFreezer
+authors: ["TheNewTeo", "TheNewHEROBRINE"]
+version: 1.0.0
+api: ["3.0.0-ALPHA7"]
+main: TheNewTeam\TimeFreezer\Main
+load: STARTUP
